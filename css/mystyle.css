@@ -1,0 +1,129 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Athiti&family=BenchNine:wght@700&family=Black+Ops+One&family=Bungee+Shade&family=Cormorant+Garamond:wght@500&family=Crete+Round&family=Ewert&family=Libre+Franklin:wght@200;500&family=Montserrat:wght@300&family=Noto+Sans+Tagalog&family=Noto+Serif+JP:wght@200&family=Pixelify+Sans&family=Roboto:wght@300;400&family=Sedgwick+Ave+Display&family=Simonetta:ital,wght@1,900&display=swap');
+
+ a{
+    margin-right: 25px;
+    text-decoration: none; 
+    color: gold;
+    font-size: 22px;
+    font-family: "Noto Sans Tagalog";
+  }
+  h1{
+    font-family: "Noto Sans";
+  }
+  p{
+   background-color: darkgreen;
+   padding: 15px;
+   text-align: right;
+   border-top: 3px solid gold;
+   border-bottom: 3px solid gold;
+  }
+  img{
+      display: block;
+      width: 50%;
+      margin: auto;
+      border: 3px solid darkgreen;
+      border-radius: 50%;
+  }
+  a:hover{
+      background-color: white;
+      color: black;
+      padding: 10px;
+  }
+  span{
+    position: fixed;
+    bottom: 1%;
+    left: 40%;
+  }
+  table{
+    border: 1px solid maroon;
+    border-collapse: collapse;
+  }
+  td{
+    border: 1px solid maroon;
+    padding: 5px 15px;
+  }
+  tr:nth-child(odd){
+    background-color: burlywood;
+  }
+  .ctecopyright{
+    position: fixed;
+    bottom: 0;
+    left: 40%;
+  }
+  .ctehightlight:hover{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    margin-right: 25px;
+    text-decoration: none; 
+    color: black;
+    font-size: 22px;
+    font-family: "Arial"; 
+  }
+  .coehightlight:hover{
+    background-color: maroon;
+    color: black;
+    padding: 10px;
+    margin-right: 25px;
+    text-decoration: none; 
+    color: whitesmoke;
+    font-size: 22px;
+    font-family: "Arial"; 
+  }
+  .cithightlight:hover{
+    background-color: red;
+    color: black;
+    padding: 10px;
+    margin-right: 25px;
+    text-decoration: none; 
+    color: whitesmoke;
+    font-size: 22px;
+    font-family: "Arial"; 
+  }
+  .homehightlight:hover{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin-right: 25px;
+    text-decoration: none; 
+    color: black;
+    font-size: 22px;
+    font-family: "Arial"; 
+  }
+  .tab{
+    background-color: darkgreen;
+    padding: 15px;
+    text-align: right;
+    border-top: 3px solid gold;
+    border-bottom: 3px solid gold;
+  }
+  .cteimg{
+    display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid blue;
+    border-radius: 50%;
+    box-shadow: 15px 15px 5px yellow;
+  }
+  .coeimg{
+    display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid yellow;
+    border-radius: 50%;
+    box-shadow: 15px 15px 5px maroon;
+  }
+  .citimg{
+    display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 50%;
+    box-shadow: 15px 15px 5px red;
+  }
+  
+  
+  
+  
+  
